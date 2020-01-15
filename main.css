@@ -46,3 +46,12 @@ footer {
     left: 0;
     bottom: 0;
 }
+.dogs {
+    display: flex
+    flex-flow: row wrap:
+    justify-content: center;
+}
+.dogs img {
+height: 100px;
+margin: 50px;
+}
